@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-    font-size: 3.2em;
+    font-size: 1.8em;
 }
 
 h3 {
@@ -602,4 +602,4 @@ textarea{
 
 .form_submit:hover{
     background-color: rgb(96, 32, 156);
-}s
+}
